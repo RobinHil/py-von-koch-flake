@@ -1,5 +1,7 @@
 # 🌟 Flocon de Von Koch
 
+## 📝 Description
+
 Une application interactive permettant de visualiser et manipuler cette célèbre figure fractale. Découvrez la beauté mathématique des fractales à travers une interface simple et intuitive !
 
 ![Aperçu du Flocon de Von Koch](./images/screenshot.png)
